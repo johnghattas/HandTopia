@@ -1,0 +1,99 @@
+{
+  "email": "Email",
+  "password": "Password",
+  "sign_in": "Sign In",
+  "sign_up": "Create account",
+  "about_handy": "Welcome to HandTopia \nHandTopia is the first online platform that aims not only to sell, market, and teach handicrafts and the handicraft heritage of different cultures, but also to increase craftsmanship to keep and revitalize crafts threatened with extinction.",
+  "error_email_password" : "Email or password didn't match",
+  "unexpected_error": "Unexpected error please try letter",
+  "eg_currency" : "EG",
+  "browse" : "Browse",
+  "sign_out" : "Sign Out",
+  "logout_message": "Good Bye",
+  "cart_text": "Shopping Cart",
+  "total_price": "Total price:",
+  "warning_to_delete" : "Are you sure to do this?",
+  "ok": "OK",
+  "warning": "Warning",
+  "cancel" : "Cancel",
+  "added_to_cart": "Item added to the Cart successful",
+  "apply_order" : "Order now",
+
+  "alert_to_sign_in": "In this steep you should to SIGN IN",
+  "alert_complete_data" : "Please Complete your data (phone, address), to connect with you and deliver order to you",
+
+  "didnt_have_acc" : "Didn't have account? ",
+  "create_acc": "Create account",
+  "did_have_acc" : "Did Have account? ",
+  "my_acc":  "My account",
+
+
+  "first_name" : "First name",
+  "last_name" : "Last name",
+  "date_of_birth" : "Date of birth",
+  "confirm_password" : "Confirm password",
+
+  "password_isnt_match": "Password and confirm isn't match",
+
+  "product_title" : "title",
+  "price_title" : "price",
+  "seller_title": "Maker",
+  "material_title": "Materials",
+  "story_title": "Story",
+  "buy_title": "Buy",
+  "add_to_cart": "Add to cart",
+  "comments_title": "Comments",
+
+  "main_page": "Main page",
+  "settings" : "Settings",
+  "my_orders" : "my orders",
+
+  "sign_to_handy": "SignIn",
+  "contact_us" : "contact us",
+  "submit" : "Submit",
+
+  "required_address": "your address",
+  "required_phone": "mobile phone",
+  "optional": "optional",
+  "empty" : "Empty",
+  "edit": "Edit",
+
+  "success_update_profile": "The profile updated successful",
+  "success_update": "successful",
+
+  "name_2" : "name (first second)",
+  "phone" : "phone number",
+  "address": "The address to be received at",
+  "notes": "Notes",
+  "confirm" : "Confirm",
+  "please_etf": "enter this field required",
+
+  "address_title": "address",
+  "done" : "Done",
+  "back": "Back",
+  "loading": "Loading...",
+
+  "no_data": "No data founded",
+  "error_data": "Error when get data",
+  "no_comments" : "no Comments",
+
+  "confirm_order_dialog" : "The order has been confirmed.\nYou will be contacted by our representative within 24 hours",
+
+  "code" : "code",
+  "date_buying": "buying at",
+  "status" : "status",
+
+  "waiting_status" : "waiting for custom Services call you",
+  "done_status" : "complete",
+  "error_contact_status" : "Customer service could not contact you. Check the data and place the order",
+  "deliver_waiting_status" : "The order has been confirmed. We will deliver to you within a week of the order date",
+
+  "rate_product" : "rate the product",
+  "comment_title" : "write comment",
+  "clear_history": "clear history",
+  "see_more" : "see more",
+  "remove_order" : "remove order",
+
+  "loading2": "loading",
+  "retry": "Retry"
+}

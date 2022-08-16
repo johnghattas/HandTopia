@@ -1,0 +1,101 @@
+{
+  "project_info": {
+    "project_number": "585406241816",
+    "firebase_url": "https://handy-product.firebaseio.com",
+    "project_id": "handy-product",
+    "storage_bucket": "handy-product.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:585406241816:android:02beaa1a6c41b19afab76d",
+        "android_client_info": {
+          "package_name": "com.handyadmin.handy_admin_project"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "585406241816-ut83nukvc6m9453b69gvl5bl4hku1d31.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.handyadmin.handy_admin_project",
+            "certificate_hash": "70235a6e7e15e2f2b0effe20476c1c640859b502"
+          }
+        },
+        {
+          "client_id": "585406241816-kjg91d8cp1182ft54e8b9m5tlc2hg2qu.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.handyadmin.handy_admin_project",
+            "certificate_hash": "f6c11ed702a7f19322509aa5b82f6f777a8742bc"
+          }
+        },
+        {
+          "client_id": "585406241816-k5ue8k92epmd831gscnd207i02u36erc.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDhLTaiHHzAvZJ5FEQd9HEq07k6h7a_gMM"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "585406241816-k5ue8k92epmd831gscnd207i02u36erc.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:585406241816:android:18fe865440013cc7fab76d",
+        "android_client_info": {
+          "package_name": "com.handyproject"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "585406241816-8u5toak2gsimoqpa8csnjf75hr5okvk9.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.handyproject",
+            "certificate_hash": "70235a6e7e15e2f2b0effe20476c1c640859b502"
+          }
+        },
+        {
+          "client_id": "585406241816-ecdkhb1c944vfsp79bolvat1hn6cadgj.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.handyproject",
+            "certificate_hash": "f6c11ed702a7f19322509aa5b82f6f777a8742bc"
+          }
+        },
+        {
+          "client_id": "585406241816-k5ue8k92epmd831gscnd207i02u36erc.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDhLTaiHHzAvZJ5FEQd9HEq07k6h7a_gMM"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "585406241816-k5ue8k92epmd831gscnd207i02u36erc.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
